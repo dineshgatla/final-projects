@@ -5,6 +5,9 @@ const Header = () => (
     <div className="nav-content">
       <p className="website-logo">DINESH GATLA</p>
       <ul className="nav-menu">
+        <h1 className="heading">
+          Visit us <i className="arrow right"></i>
+        </h1>
         <li>
           <a href="https://www.linkedin.com/in/dinesh-gatla/">
             <img
