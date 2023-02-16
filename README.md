@@ -1,4 +1,3 @@
-# On - Demand Session
+# Final projects
 
-- Identifying the State
-- Updating the styles based on State
+
